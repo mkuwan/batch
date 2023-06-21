@@ -1,0 +1,1 @@
+# Spring Boot Batch と Kafkaの連携サンプルです
